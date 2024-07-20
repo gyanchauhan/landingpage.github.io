@@ -803,7 +803,7 @@ color: rgb(239, 125, 0);
 }
 .contacts input:hover{
   color:rgb(239, 125, 0) !important;
-  color:white !important;
+  
 }
 .submit input:hover{
   background-color: rgb(27, 29, 86) !important;
@@ -813,24 +813,24 @@ color: rgb(239, 125, 0);
 
 /* wtspp-----css-------------------------- */
 .btn-whatsapp-pulse {
-	background: #25d366;
-	color: white;
-	position: fixed;
-	bottom: 0px;
-	right: 20px;
-	font-size: 40px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 0;
-	height: 0;
-	padding: 35px;
-	text-decoration: none;
-	border-radius: 50%;
-	animation-name: pulse;
-	animation-duration: 1.5s;
-	animation-timing-function: ease-out;
-	animation-iteration-count: infinite;
+	background: #25d366 !important;
+	color: white !important;
+	position: fixed !important;
+	bottom: 0px !important;
+	right: 20px !important;
+	font-size: 40px !important;
+	display: flex !important;
+	justify-content: center!important;
+	align-items: center!important;
+	width: 0 !important;
+	height: 0 !important;
+	padding: 35px !important;
+	text-decoration: none !important;
+	border-radius: 50% !important;
+	animation-name: pulse !important;
+	animation-duration: 1.5s !important;
+	animation-timing-function: ease-out !important;
+	animation-iteration-count: infinite !important;
 }
 
 @keyframes pulse {
