@@ -442,7 +442,7 @@ color: rgb(239, 125, 0);
   height: 35vh !important
 }
 .carousel1 {
-   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(slide-3.jpg) !important;
+   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg) !important;
     height: 70vh !important;
     background-size: 100% 100% !important;
     background-repeat: no-repeat !important;
@@ -450,7 +450,7 @@ color: rgb(239, 125, 0);
 }
 
 .carousel2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner2.jpg) !important;
     height: 70vh;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -458,7 +458,7 @@ color: rgb(239, 125, 0);
 }
 
 .carousel3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg) !important;
     height: 70vh;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -490,7 +490,7 @@ color: rgb(239, 125, 0);
 
 @media(max-width:900px) {
     .carousel1 {
-        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/slide-3.jpg);
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg);
         height: 55vh;
         background-size: 100% 100%;
         background-repeat: no-repeat;
@@ -498,7 +498,7 @@ color: rgb(239, 125, 0);
     }
 
     .carousel2 {
-        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/slide-2.jpg);
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner2.jpg);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         height: 55vh;
@@ -506,7 +506,7 @@ color: rgb(239, 125, 0);
     }
 
     .carousel3 {
-        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/slide-3.jpg);
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg);
         height: 55vh;
         background-size: 100% 100%;
         background-repeat: no-repeat;
