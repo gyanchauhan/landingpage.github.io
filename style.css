@@ -459,7 +459,7 @@ color: rgb(239, 125, 0);
 }
 
 .carousel3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/banner1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg);
     height: 70vh;
     background-size: 100% 100%;
     background-repeat: no-repeat;
