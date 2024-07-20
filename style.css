@@ -807,6 +807,8 @@ color: rgb(239, 125, 0);
 }
 .submit input:hover{
   background-color: rgb(27, 29, 86) !important;
+  color:black !important;	
+	
 
 }
 
