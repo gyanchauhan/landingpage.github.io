@@ -443,11 +443,10 @@ color: rgb(239, 125, 0);
 }
 .carousel1 {
     /* background-image: url(../images/banner1.jpg); */
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner1.jpg);
-    height: 70vh;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    height: 70vh !important;
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
 }
 
 .carousel2 {
